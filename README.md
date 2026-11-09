@@ -6,7 +6,6 @@ Proyecto académico desarrollado en Python para recopilar, consolidar y analizar
 
 - `Proyecto_Final_Scraping.ipynb`: notebook principal con los scrapers, consolidación, limpieza, exportación y reportes.
 - `requirements.txt`: dependencias principales para ejecutar el proyecto fuera de Google Colab.
-- `.gitignore`: evita subir archivos temporales y resultados generados durante la ejecución.
 
 ## Funcionalidades
 
